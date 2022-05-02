@@ -26,12 +26,6 @@
 * [Json Server](https://github.com/typicode/json-server)
 
 
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/71772559/113493868-cd59b100-94b9-11eb-8506-64061203ce08.gif" width="100%" />
-
-&nbsp;
-
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
