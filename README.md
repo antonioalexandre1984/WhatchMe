@@ -2,7 +2,7 @@
 
 ## 📚 Informações sobre o projeto
 
-* Essa aplicação foi um projeto desenvolvido durante um desafio do Ignite da Rocketseat! A ideia era aprimorar a aplicação já desenvolvida anteriormente.Nesta etapa foi utilizada ferramentas do react como useCallback e o memo atuando nos quesitos de performace e usabilidade.
+* Essa aplicação foi um projeto desenvolvido durante um desafio do Ignite da Rocketseat! A ideia era aprimorar a aplicação já desenvolvida anteriormente.Nesta etapa foi utilizada ferramentas do react como useCallback e o useMemo atuando nos quesitos de performace e usabilidade.
 
 &nbsp;
 
@@ -29,12 +29,12 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/antonioalexandre1984/Rocketseat_ignite2022_React_Chapter_05_Otimizando_a_aplicacao
+$ git clone hhttps://github.com/antonioalexandre1984/WhatchMe.git
 ```
 
 ```
 # Acesse a pasta da aplicação
-$ cd space-traveling
+$ cd WhatchMe
 
 # Instale as dependências
 $ yarn
