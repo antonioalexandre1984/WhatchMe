@@ -1,5 +1,14 @@
 # App - WhatchMe
 
+&nbsp;
+
+![mock2](https://raw.githubusercontent.com/antonioalexandre1984/WhatchMe/main/src/assets/01.png)
+
+![mock2](https://raw.githubusercontent.com/antonioalexandre1984/WhatchMe/main/src/assets/02.png)
+
+![mock2](https://raw.githubusercontent.com/antonioalexandre1984/WhatchMe/main/src/assets/03.png)
+
+
 ## 📚 Informações sobre o projeto
 
 * Essa aplicação foi um projeto desenvolvido durante um desafio do Ignite da Rocketseat! A ideia era aprimorar a aplicação já desenvolvida anteriormente.Nesta etapa foi utilizada ferramentas do react como useCallback e o useMemo atuando nos quesitos de performace e usabilidade.
